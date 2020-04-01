@@ -1,15 +1,15 @@
 /* Variables */
 /* OHMYFOOD STYLE */
 /* MENUS BACKGROUND COLORS */
-/* MENUS TEXTES COLORS*/
+/* MENUS TEXTES COLORS */
 /* MENUS TRAITS DECORATIONS COLORS */
 /* MENUS FONTS */
 /* Mixins */
-/*Mixins FLEXBOX */
-/*Mixin LINEAR-GRADIENT */
+/* Mixins FLEXBOX */
+/* Mixin LINEAR-GRADIENT */
 /* Mixins HEADER-FOOTER */
 /* ANIMATIONS */
-/* TRANSITION ZOOM-MENUS */
+/* TRANSITION ANIM_MENUS */
 
 .anim_menus {
   text-align: center;
@@ -24,7 +24,7 @@
 
 /* **************MIXIN TRANSITION SOULIGNEMENT TITRES MENUS*************** */
 /* **************KEYFRAMES****************** */
-/*  ***********ANIMATION TROIS POINTS******  */
+/* ***********ANIMATION TROIS POINTS******  */
 .dots {
   content: ".";
   animation: dots 2s steps(4, end) infinite;
